@@ -4,7 +4,6 @@ import com.debuggeando_ideas.best_travel.DummyData;
 import com.debuggeando_ideas.best_travel.api.models.responses.HotelResponse;
 import com.debuggeando_ideas.best_travel.domain.entities.jpa.HotelEntity;
 import com.debuggeando_ideas.best_travel.domain.repositories.jpa.HotelRepository;
-import com.debuggeando_ideas.best_travel.infraestructure.services.HotelService;
 import com.debuggeando_ideas.best_travel.spec.ServiceSpec;
 import com.debuggeando_ideas.best_travel.util.enums.SortType;
 import org.junit.jupiter.api.DisplayName;
